@@ -10,9 +10,9 @@ const styles = StyleSheet.create({
 
     },
     textTitle:{
-        fontSize: 30,
+        fontSize: 40,
         fontWeight: 'bold',
-        color: '#2fafff'
+        color: '#0f90f0',
     },
 });
 
