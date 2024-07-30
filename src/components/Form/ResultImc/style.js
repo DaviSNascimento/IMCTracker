@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
         
     },
     textBoxShare:{
-        fontSize: 30,
+        fontSize: 25,
         color: "white",
     },
 });
