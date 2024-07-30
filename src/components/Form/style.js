@@ -52,7 +52,12 @@ const styles = StyleSheet.create({
         color:"white",
 
     },
-
+    errorMessage:{
+        paddingLeft: 18,
+        color:"red",
+        fontWeight: "bold",
+        margin:2,
+    },
 
 });
 
